@@ -1,7 +1,15 @@
 function Backend() {
     return (
         <div>
-            <p>Esta é a página sobre o Back-End</p>
+            <h5>Back-end</h5>
+
+            <ul>
+                <li>- Python</li>
+                <li>- Psycopg2</li>
+                <li>- SqlAlchemy</li>
+                <li>- Flask</li>
+                <li>- Docker</li>
+            </ul>
         </div>
     )
 }

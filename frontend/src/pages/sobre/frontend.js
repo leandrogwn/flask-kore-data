@@ -1,7 +1,19 @@
 function Frontend() {
     return (
         <div>
-            <p>Esta página é sobre o Front-End</p>
+            <h5>Front-end</h5>
+
+            <ul>
+                <li>- NodeJs</li>
+                <li>- React</li>
+                <li>- Javascript</li>
+                <li>- Bootstrap</li>
+            </ul>
+
+
+
+
+
         </div>
     )
 }

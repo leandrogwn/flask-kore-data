@@ -4,6 +4,17 @@
   font-family: "Blinker" !important;
 }
 
+.logo-home{
+  display: flex;
+  justify-content: center;
+  height: 1000px auto!important;
+}
+
+.slogan{
+  display: flex;
+  justify-content: center;
+}
+
 body {
   background-color: #0e1217 !important;
   color: #fff !important;
@@ -25,4 +36,18 @@ a:hover {
 
 p {
   color: #a9abb3 !important;
+}
+
+.modal-title, .form-label {
+  color: #0e1217 !important;
+}
+
+.btn-new-user {
+  padding: 1.5rem 0;
+}
+
+.btn-action {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
 }

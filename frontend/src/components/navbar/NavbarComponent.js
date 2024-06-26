@@ -11,7 +11,7 @@ function NavbarComponent() {
             </h2>
             <ul>
                 <li><Link to="/">Home</Link></li>
-                <li><Link to="/sobre/frontend">Sobre</Link></li>
+                <li><Link to="/sobre">Sobre</Link></li>
                 <li><Link to="/usuarios" className="new-btn">Usuários</Link></li>
             </ul>
         </nav>
